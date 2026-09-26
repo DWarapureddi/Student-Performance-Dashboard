@@ -26,7 +26,7 @@ This Power BI dashboard analyzes student academic performance and attendance dat
 
 The dashboard provides interactive visuals to analyze student marks and attendance across different departments and genders.
 
-![Student Performance & Attendance Dashboard](screenshot.png)
+![Student Performance & Attendance Dashboard](Screenshot%202026-09-26%20221249.png)
 
 ## Dataset
 
@@ -52,5 +52,5 @@ The dataset contains student information including:
 Student-Performance-Dashboard/
 │
 ├── README.md
-├── screenshot.png
+├── Screenshot 2026-09-26 221249.png
 └── Student Performance Dashboard.pbix
